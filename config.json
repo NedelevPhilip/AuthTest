@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://localhost/node-mongo-jwt-refresh-tokens-api",
+    "secret": "1350ce67-cd68-4afd-af3d-2020933b948a",
+    "apiUrl": "http://localhost:4000"
+}
